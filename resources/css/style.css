@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+.download{
+    text-decoration: underline ;
+    color: aquamarine;
+    font-size: 16px;
+}
+.world h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.travel h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+.travel p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+footer{
+    text-align: right !important;
+    color: gray;
+}
+
