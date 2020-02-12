@@ -2,7 +2,7 @@ html{
     background-color: black;
     text-align: center;
 }
-.download{
+a{
     text-decoration: underline ;
     color: aquamarine;
     font-size: 16px;
@@ -23,8 +23,11 @@ html{
     font-size: 21px;
     color: gray;
 }
-footer{
+.tag{
     text-align: right !important;
     color: gray;
+}
+.phone{
+    padding-top: 5%;
 }
 
